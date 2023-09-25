@@ -36,3 +36,36 @@
     transform: rotate(360deg);
   }
 }
+
+
+
+table {
+  border-left: 1px solid #bbbbbb;
+  border-right: 1px solid #bbbbbb;
+  border-bottom: 1px solid #bbbbbb;
+}
+.stunda1 {
+  text-align:center; 
+  width:5%;
+}
+
+td {
+  display: table-cell;
+  vertical-align: inherit;
+}
+
+.tr1 {
+  border-top: 2px solid #000000;
+  border-left: 1px solid #DDDDDD;
+  border-right: 1px solid #DDDDDD;
+  border-bottom: 1px solid #DDDDDD;
+  text-align: left;
+  height: 18px;
+  width: 60%;
+  background-Color: #DDDDDD;
+}
+.td_1 {
+  border-left: 1px solid #bbbbbb;
+  border-right: 1px solid #bbbbbb;
+  border-bottom: 1px solid #bbbbbb;
+}
